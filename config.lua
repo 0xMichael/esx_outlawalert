@@ -1,9 +1,9 @@
 Config = {}
 
-Config.Locale = 'fr'
+Config.Locale = 'en'
 
 -- Set the time (in minutes) during the player is outlaw
-Config.Timer = 1
+Config.Timer = 2
 
 -- Set if show alert when player use gun
 Config.GunshotAlert = true
@@ -12,22 +12,22 @@ Config.GunshotAlert = true
 Config.CarJackingAlert = true
 
 -- Set if show when player fight in melee
-Config.MeleeAlert = true
+Config.MeleeAlert = false
 
 -- In seconds
-Config.BlipGunTime = 5
+Config.BlipGunTime = 30
 
 -- Blip radius, in float value!
 Config.BlipGunRadius = 50.0
 
 -- In seconds
-Config.BlipMeleeTime = 7
+Config.BlipMeleeTime = 30
 
 -- Blip radius, in float value!
 Config.BlipMeleeRadius = 50.0
 
 -- In seconds
-Config.BlipJackingTime = 10
+Config.BlipJackingTime = 30
 
 -- Blip radius, in float value!
 Config.BlipJackingRadius = 50.0
