@@ -9,6 +9,8 @@ Fork of the original resource which has the following changes: made esx compatib
 This fork adds chat support along with mythic notifications.
 You must install mythic_notify for this to work.
 
+In addition, you can receive support here: https://discord.gg/XsUvj4A
+
 ## Requirements
 
 You need [mythic_notify] https://github.com/mythicrp/mythic_notify
