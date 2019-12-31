@@ -39,7 +39,6 @@ AddEventHandler('esx_outlawalert:outlawNotify', function(alert)
 		if Config.UseChat then
 			TriggerEvent('chat:addMessage', {
 				template = '<div style="padding: 0.5vw; margin: 0.5vw; background-color: rgba(255, 0, 0, 0.616); border-radius: 10px;">{0}</div>',
-				--template = '<div class="chat-message"><div class="chat-message-header">[OOC] {0}:</div><div class="chat-message-body">{1}</div></div>',
 				args = { alert }
 			})
 		end
