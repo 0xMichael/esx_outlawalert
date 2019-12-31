@@ -39,3 +39,5 @@ Config.ShowCopsMisbehave = true
 Config.WhitelistedCops = {
 	'police'
 }
+
+Config.UseMythic = true
