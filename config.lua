@@ -41,3 +41,4 @@ Config.WhitelistedCops = {
 }
 
 Config.UseMythic = true
+Config.UseChat = true
